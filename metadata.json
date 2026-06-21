@@ -1,0 +1,6 @@
+{
+  "name": "Vyntra",
+  "description": "Vyntra is a professional Startup Success Predictor & Predictive Analytics platform for evaluating and benchmarking startup investments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
